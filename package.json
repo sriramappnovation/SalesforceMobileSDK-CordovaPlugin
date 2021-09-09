@@ -1,5 +1,5 @@
 {
-    "name": "SalesforceMobileSDK-CordovaPlugin",
+    "name": "cordova-salesforce-hybrid-mobile-sdk",
     "version": "9.1.1",
     "description": "Salesforce Mobile SDK Cordova Plugin Repository",
     "keywords": [ "mobilesdk", "android", "ios", "cordova", "salesforce", "mobile", "sdk" ],
@@ -10,7 +10,7 @@
     ],
     "repository": {
         "type" : "git",
-        "url" : "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git"
+        "url" : "https://github.com/sriramappnovation/SalesforceMobileSDK-CordovaPlugin.git"
     },
     "author": { "name": "Bharath Hariharan", "email": "bhariharan@salesforce.com" },
     "contributors": [

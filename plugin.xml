@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="com.salesforce"
+        id="cordova-salesforce-hybrid-mobile-sdk"
         version="9.1.0">
 
   <name>SalesforceMobileSDK Plugins</name>
